@@ -1,0 +1,65 @@
+    /* Konsep Pewarnaan */
+    body {
+      background-image: url(ground.jpg);
+      background-position: center;
+      background-size: cover;
+    }
+    
+    header {
+   
+      padding: 10px;
+      color: white;
+    }
+    
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+    nav li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+    
+    nav a {
+      color: #fff;
+      text-decoration: none;
+    }
+    
+    aside {
+      w
+      background-color: #;
+      padding: 20px;
+    }
+    
+    /* Konsep Typografi */
+    h1,
+    h2 {
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+    }
+    
+    p {
+      font-family: Helvetica, Arial, sans-serif;
+    }
+    
+    
+    section {
+      margin-bottom: 20px;
+    }
+    
+    section {
+      border: 1px solid #red;
+      padding: 10px;
+    }
+    
+    /* Konsep Keseimbangan */
+    .profile {
+      text-align: center;
+    }
+    
+    footer {
+      text-align: center;
+    }
+  
